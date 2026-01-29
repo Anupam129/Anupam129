@@ -43,8 +43,8 @@
 
 Connect with me:-
 <p align="left">
-Gmail:- [aknishad129@gmail.com]
+Gmail:- aknishad129@gmail.com
 <p align="left">
-Linkdin:- [ https://www.linkedin.com/in/anupam-kumar-nishad-2960b8285/ ]
+Linkdin:- https://www.linkedin.com/in/anupam129/
 
 
