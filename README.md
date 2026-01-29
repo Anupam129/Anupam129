@@ -1,9 +1,29 @@
-👋 Hi, I’m Anupam Kumar Nishad
+<h1 align="center">Hello 👋, I'm Anupam Kumar Nishad</h1>
 
-🚀 DevOps Engineer | Cloud & Automation Enthusiast
+<h3 align="center">🚀 DevOps Engineer | Cloud & Automation Enthusiast
 
-DevOps Engineer with 3 years of overall IT experience, including 1 year of hands-on DevOps experience in automating, building, deploying, and managing applications across DEV, QA, STAGE, and PROD environments.
-Passionate about CI/CD, Cloud Infrastructure, Containers, and IaC, with a strong focus on reliability, automation, and continuous improvement.
+<h3 align="center">DevOps Engineer with 3 years of overall IT experience, including 1 year of hands-on DevOps experience in automating, building, deploying, and managing applications.
+<p align="center">
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
+
 
 🧑‍💻 About Me
 
@@ -21,106 +41,10 @@ Passionate about CI/CD, Cloud Infrastructure, Containers, and IaC, with a strong
 
 🛠️ Strong troubleshooting skills for build & deployment issues
 
-🛠️ Tech Stack
-🚀 DevOps & CI/CD
+Connect with me:-
+<p align="left">
+Gmail:- [aknishad129@gmail.com]
+<p align="left">
+Linkdin:- [ https://www.linkedin.com/in/anupam-kumar-nishad-2960b8285/ ]
 
-Jenkins (Declarative Pipelines)
 
-GitHub (SCM, PRs, Webhooks)
-
-Maven
-
-Nexus Repository
-
-☁️ Cloud & Infrastructure
-
-AWS (EC2, VPC, AMI, IAM, S3, CloudWatch)
-
-Terraform (IaC)
-
-🐳 Containers & Orchestration
-
-Docker, Docker Hub, Docker Swarm
-
-Kubernetes (Pods, Deployments, Services, Load Balancer, Autoscaling)
-
-⚙️ Configuration & Automation
-
-Ansible
-
-Shell Scripting (Bash)
-
-📊 Monitoring & Code Quality
-
-Nagios
-
-SonarQube
-
-Cobertura
-
-🖥️ OS & Servers
-
-Linux (RHEL 7.x, Ubuntu)
-
-Windows
-
-Apache, Tomcat
-
-💼 Professional Experience
-🏢 J.C. Penney Purchasing India Pvt. Ltd.
-
-DevOps Engineer | Dec 2024 – Present
-
-Project: End-to-End CI/CD for Dockerized Web App
-
-Built and maintained CI/CD pipelines using Jenkins
-
-Automated Docker image builds and deployments
-
-Managed AWS EC2 infrastructure with secure IAM roles
-
-Implemented basic monitoring using CloudWatch
-
-Collaborated with developers to resolve pipeline & deployment issues
-
-Followed security best practices (least privilege IAM, secrets management)
-
-🏢 Jeeva Organic Pvt. Ltd.
-
-System Engineer | Feb 2024 – Dec 2024
-
-Managed Active Directory (Windows 2008/2012)
-
-Resolved hardware & software tickets with 95% first-call resolution
-
-Documented incidents and solutions
-
-🏆 Awarded Employee of the Month – Nov 2024
-
-🏢 Successive Technologies
-
-System Engineer | Dec 2022 – Feb 2024
-
-Provided desktop & IT infrastructure support
-
-Installed and configured systems and software
-
-Coordinated with vendors for asset management
-
-📂 What You’ll Find on My GitHub
-
-🔁 CI/CD pipeline examples (Jenkins)
-
-🐳 Docker & Kubernetes deployments
-
-🏗️ Terraform AWS infrastructure
-
-⚙️ Automation scripts (Bash & Ansible)
-
-📘 DevOps practice projects
-
-📫 Connect With Me
-
-📧 Email: aknishad129@gmail.com
-
-💼 LinkedIn: [https://www.linkedin.com/in/anupam-kumar-nishad-2960b8285/]
