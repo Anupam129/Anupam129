@@ -45,6 +45,6 @@ Connect with me:-
 <p align="left">
 Gmail:- aknishad129@gmail.com
 <p align="left">
-Linkdin:- https://www.linkedin.com/in/anupam129/
+Linkedin:- https://www.linkedin.com/in/anupam129/
 
 
