@@ -2,7 +2,7 @@
 
 <h3 align="center">🚀 DevOps Engineer | Cloud & Automation Enthusiast
 
-<h3 align="center">DevOps Engineer with 3 years of hands-on experience in automating, building, deploying, and managing applications.
+<h3 align="center">DevOps Engineer with 1+ years of hands-on experience in automating, building, deploying, and managing applications.
 <p align="center">
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
